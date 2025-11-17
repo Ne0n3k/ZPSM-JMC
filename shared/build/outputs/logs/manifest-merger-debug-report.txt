@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/smerfpracus/Documents/DEV/Zajęcia/ZPUM/ZPSM---Jetpack-Multiplatform-Compose/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7603444043658595312.xml:2:13-83
+INJECTED from /Users/smerfpracus/Documents/DEV/Zajęcia/ZPUM/ZPSM---Jetpack-Multiplatform-Compose/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7603444043658595312.xml:2:13-83
+	package
+		INJECTED from /Users/smerfpracus/Documents/DEV/Zajęcia/ZPUM/ZPSM---Jetpack-Multiplatform-Compose/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7603444043658595312.xml
+	xmlns:android
+		ADDED from /Users/smerfpracus/Documents/DEV/Zajęcia/ZPUM/ZPSM---Jetpack-Multiplatform-Compose/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7603444043658595312.xml:2:23-81
+uses-sdk
+INJECTED from /Users/smerfpracus/Documents/DEV/Zajęcia/ZPUM/ZPSM---Jetpack-Multiplatform-Compose/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7603444043658595312.xml reason: use-sdk injection requested
+INJECTED from /Users/smerfpracus/Documents/DEV/Zajęcia/ZPUM/ZPSM---Jetpack-Multiplatform-Compose/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7603444043658595312.xml
+INJECTED from /Users/smerfpracus/Documents/DEV/Zajęcia/ZPUM/ZPSM---Jetpack-Multiplatform-Compose/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7603444043658595312.xml
+	android:targetSdkVersion
+		INJECTED from /Users/smerfpracus/Documents/DEV/Zajęcia/ZPUM/ZPSM---Jetpack-Multiplatform-Compose/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7603444043658595312.xml
+	android:minSdkVersion
+		INJECTED from /Users/smerfpracus/Documents/DEV/Zajęcia/ZPUM/ZPSM---Jetpack-Multiplatform-Compose/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7603444043658595312.xml
