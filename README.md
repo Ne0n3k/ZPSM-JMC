@@ -1,4 +1,4 @@
-# ZPSM---Jetpack-Multiplatform-Compose
+# ZPSM-JMC
 
 ## Zadanie: „Pokaż ukończone zadania”
 
